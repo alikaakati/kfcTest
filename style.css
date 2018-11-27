@@ -1,0 +1,281 @@
+
+.header{
+background-image:URL("map.bmp");
+border: 1px solid transparent;
+width:80%;
+height:15%;
+margin-left:10%;
+}
+img.img1{
+width:15%;
+height:100%;
+float:left;
+}
+img.img2{
+width:12%;
+height:100%;
+float:right;
+}
+img.img3{
+width:10%;
+height:30%;
+margin-left:15%;
+margin-top:5%;
+}
+.middlediv{
+border: 1px solid transparent;
+width:80%;
+height:100%;
+margin-left:10%;
+margin-top:2.5%;
+
+
+}
+.buttons{
+width:100%;
+height:10%;
+background-color:white;
+}
+.buttonStyle{
+width:20%;
+height:80%;
+background-color:white;
+float:left;
+margin-top:1%;
+margin-left:3%;
+margin-right:13%;
+border:5px solid rgb(176,18,19);
+border-radius:10px;
+}
+.button3{
+width:20%;
+height:80%;
+background-color:white;
+float:left;
+margin-top:1%;
+margin-left:2%;
+border:5px solid rgb(176,18,19);
+border-radius:10px;
+}
+.buttonText{
+font-size:30px;
+color:rgb(176,18,19);
+
+}
+.centeredDiv{
+border: 1px solid transparent;
+width:100%;
+height:50%;
+margin-top:1%;
+
+}
+.centeredDivForm{
+	border: 1px solid transparent;
+width:80%;
+height:90%;
+margin-top:1%;
+margin-left:10%;
+background-color:rgb(176,18,19);
+border-radius:1%;
+}
+.formStyle{
+	border:1px solid white;
+	width:94.5%;
+	height:85%;
+	background-color:white;
+	padding-left:3%;
+	padding-top:1%;
+	font-size:1vw;
+	margin-left:1%;
+	margin-top:1%;
+	margin-right:;
+	}
+.text{
+height:5%;
+width:50%;
+font-size:90%;
+margin-bottom:1%;
+border-radius:5%;
+margin-top:2%;
+
+}	
+.reset{
+	width:10%;
+	height:8%;
+	font-size:100%;margin-top:2%;
+
+}
+.createAcc{
+	margin-left:2%;
+		width:20%;
+	height:8%;
+	font-size:100%;
+	
+}
+	
+	
+.centeredDiv2{
+margin-top:1%;
+border: 1px solid transparent;
+width:100%;
+height:40%;
+margin-left:0%;
+background-color:white;
+}
+
+.bigpic {
+
+width:100%;
+height:100%;
+
+}
+.kfcoffers {
+height:70%;
+width:20%;
+margin-right:3%;
+margin-left:1%;
+}
+
+div.container {
+    width: 20%;
+    border: 2px solid rgb(176,18,19) ;
+	margin-left:2%;
+	border-radius:10px;
+	margin-right:2%;
+	float:left;
+}
+
+div.boxes {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid transparent;
+    height:15%;
+	float: left;
+	color: rgb(176,18,19);
+	text-align:center;
+ font-weight:bold;
+ padding:15px;
+ 
+}
+
+div.boxes1 {
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid transparent;
+    height:15%;
+	float: left;
+	background-color:rgb(176,18,19);
+	color:white;
+	text-align:center;
+ font-weight:bold;
+ padding:15px;
+ 
+}
+div.boxes {
+     
+    box-sizing: border-box;
+    width: 50%;
+    border: 1px solid transparent;
+    height:15%;
+	float: left;
+	background-color:white;
+	color:rgb(176,18,19);
+	text-align:center;
+ font-weight:bold;
+ padding:15px;
+ 
+}
+a{
+	text-decoration:none;
+}
+a.fti{
+	color:rgb(176,18,19);
+	
+	
+}
+a.fti2{
+	
+	color:white;
+	
+	
+}
+
+.sociallinks{
+width:100%;
+height:8%;
+border:1px solid black;
+background-color:rgb(176,18,19);
+margin-top:2%;
+}
+.fa {
+  padding: 10px;
+  font-size: 150%;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  margin-left:1%;
+  margin-top:1%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: white;
+  color: rgb(176,18,19);
+  border-radius:100%;
+}
+
+.fa-twitter {
+   background: white;
+  color: rgb(176,18,19);
+  border-radius:100%;
+}
+
+
+.fa-instagram {
+  background: white;
+  color: rgb(176,18,19);
+  border-radius:100%;
+}
+
+
+
+.footer{
+width:100%;
+height:40%;
+background-color:lightgray;
+}
+div.div1{
+width: 100%;
+height:20%;
+}
+img {
+height:40%;
+width:20%;
+}
+.footerlist1{
+	width:10%;
+	height:80%;
+	background-color:transparent;
+	margin-left:6%;
+	margin-top:0%;
+	text-align:center;
+	color:rgb(176,18,19);
+	font-size:23px;
+	box-sizing:border-box;
+	float:left;
+	margin-right:15%;
+	font-family:courier;
+	
+}
+ul{
+	list-style-type:none;
+}
+li{
+	float:center;
+}
+
+
+
